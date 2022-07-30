@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.no-ugly-link{
+    color: white;
+    text-decoration: none;
+}
+nav{
+    font-size: 1.3rem;
+    padding-top: 10px;
+    padding-left: 12px;
+    color: white;
+    height: 6vh;
+    border-bottom: 4px solid rgb(47, 255, 116);
+    background-color: rgb(48, 48, 48);
+}
+.container{
+    height: 92vh;
+    background-color: rgb(13, 13, 13);
+    color: white;
+}
+.premium-large-box{
+    display: inline-block;
+    background-color: rgb(48, 48, 48);
+    border: 3px solid rgb(47, 255, 116);
+    border-radius: 7px;
+    margin-top: 4%;
+    margin-left: 16.9%;
+    height: fit-content;
+    width: fit-content;
+}
+.premium-small-box{
+    background-color: rgb(30, 30, 30);
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+    padding: 50px;
+    border: 3px solid rgb(47, 255, 116);
+    border-radius: 7px;
+    height: 60vh;
+    width: 5.4vw;
+}
+.buy-button{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(0, 255, 85);
+    border: 1px solid rgb(0, 255, 85);
+    border-radius: 5px;
+    color: white;
+    padding: 15px;
+}
+.prices{
+    text-align: center;
+    margin-bottom: 10vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+.perks{
+    font-size: 1rem;
+    margin-bottom: 8vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
